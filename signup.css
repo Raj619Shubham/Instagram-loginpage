@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+h1{
+font-size:50px;
+font-style: italic;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+li{
+    list-style:none;
+}
+.abcd{
+    border:1px solid black;
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+    
+}
+h4{
+    color:rgb(10, 182, 250);
+}
+h5{
+    color: rgb(12, 175, 240);
+}
+input{
+    width: 190px;
+    height: 25px;
+
+}
